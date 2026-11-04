@@ -1,0 +1,6 @@
+{
+  "name": "CanteenX AI - Smart Campus Canteen Platform",
+  "description": "Skip the Queue. Not Your Meal. Smart Campus Canteen Platform with digital tokens, live queue tracking, AI food assistant, and canteen administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
